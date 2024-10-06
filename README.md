@@ -1,5 +1,6 @@
 ## 常用英语词汇表
 
+0）总表用excel格式已经汇总完毕，可以直接查看[./CET4+6-TOEFL-NPEE-总分表],有两个Python小程序，可以帮助自查单词熟练度，然后保存有权单词表在新表格中，方便简化复习量。
 
 1）大学英语四级词汇表内容提取自 http://fl.gzu.edu.cn/picture/article/283/f0/82/a954664a435bb359db15807a4d56/ad9d197b-48a8-486c-9be0-bd73e78d2b64.pdf ，此PDF内嵌入Kingsoft Phonetic Plain字体用于显示音标，导致转换为TXT时音标部分为乱码，故全部予以替换。替换过程中可能会出现失误，原始文档本身也有错误，我通读了一遍一一校正，或许依然有讹误存在，待日后完善。
 
@@ -19,5 +20,5 @@
 
 9）OALD8_abridged_edited 收录牛津高阶英汉双解词典（第8版）删除四六级、托福、GRE、COCA_abridged词汇后的单词。且通读，删除短语，删除缩略语，删除无中文释义的异体词，删除“-”开头或结尾的词缀。
 
-10）如果你的英语词汇水平在OALD，或GRE考试要求之上，可以考虑去了解一下我的一个高阶项目：**english dictionary database**（ https://github.com/mahavivo/english-dictionary ）。
+10）如果你的英语词汇水平在OALD，或GRE考试要求之上，可以考虑去了解一下原作者的一个高阶项目：**english dictionary database**（ https://github.com/mahavivo/english-dictionary ）。
 
